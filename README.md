@@ -1,0 +1,1 @@
+# An-lisis-de-quiebra-econ-mica-en-polonia-con-Knime
