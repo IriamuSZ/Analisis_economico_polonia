@@ -205,3 +205,6 @@ https://drive.google.com/drive/folders/1LzlcHMzhtMMepWONXYqSqBcEHxqKQtEq?usp=dri
 ---
 
 ## 📂 Workflow de Knime
+<p align="center">
+  <img src="workflow.svg" width="800">
+</p>
